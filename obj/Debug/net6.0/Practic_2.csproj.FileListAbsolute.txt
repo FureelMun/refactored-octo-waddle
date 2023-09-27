@@ -1,0 +1,14 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\bin\Debug\net6.0\Practic_2.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\bin\Debug\net6.0\Practic_2.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\bin\Debug\net6.0\Practic_2.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\bin\Debug\net6.0\Practic_2.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\bin\Debug\net6.0\Practic_2.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\refint\Practic_2.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\Practic_2.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\МПТ\ОАИП(шарп)\Практическая 2\Practic_2\Practic_2\obj\Debug\net6.0\ref\Practic_2.dll
