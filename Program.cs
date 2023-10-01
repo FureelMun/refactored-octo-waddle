@@ -1,4 +1,4 @@
-﻿using System.Security.Cryptography;
+using System.Security.Cryptography;
 using System.Threading.Channels;
 
 static void gess_game()
@@ -6,15 +6,11 @@ static void gess_game()
     Random random_num = new Random();
     int random = random_num.Next(0, 100);
 
+    Console.WriteLine("Введите ваше число: ");
     int number = Convert.ToInt32(Console.ReadLine());
     bool flag = true;
     while (flag)
     {
-        //ctrl + k + d
-        //ctrl + k + d
-        //ctrl + k + d
-        //ctrl + k + d
-        //ctrl + k + d
         //ctrl + k + d
         if (number == random)
         {
@@ -30,6 +26,8 @@ static void gess_game()
         {
             Console.WriteLine("Загаданное число больше вашего");
         }
+        Console.WriteLine("Введите ваше число: ");
+
         number = Convert.ToInt32(Console.ReadLine());
     }
 }
@@ -46,6 +44,21 @@ static void ymn()
         Console.WriteLine("");
     }
 
+}
+
+static void ostatoc()
+{
+    List<int> chesl = new List<int>();
+    Console.WriteLine("Введите ваше число: ");
+    int number = Convert.ToInt32(Console.ReadLine());
+    for (int i = 1; i<=number; i++) {
+        if ((number % i) == 0)
+            {
+            chesl.Add(i);
+            Console.WriteLine(i);
+        } 
+            
+                }
 }
 
 
@@ -71,6 +84,7 @@ while (do_program)
             ymn();
             break;
         case 3:
+            ostatoc();
             break;
         case 4:
             Console.WriteLine("Досвидания, мыло и веревка ждут ");
